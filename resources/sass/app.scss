@@ -1,0 +1,22 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~admin-lte/build/scss/adminlte.scss';
+
+//select2
+@import "~select2/dist/css/select2.css";
+//Toastr
+@import "~toastr/toastr.scss";
+//BS-toggle
+@import "~bootstrap4-toggle/css/bootstrap4-toggle.min.css";
+
+//Datatable
+@import "~datatables.net-bs4/css/dataTables.bootstrap4.css";
+@import "~datatables.net-responsive-bs4/css/responsive.bootstrap4.css";
+@import "~datatables.net-buttons-bs4/css/buttons.bootstrap4.css";
+@import "~datatables.net-select-bs4/css/select.bootstrap4.css";
+@import "datatable";
+
+//Regular CSS File
+@import "~/../resources/css/app.css";

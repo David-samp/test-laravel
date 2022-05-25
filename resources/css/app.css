@@ -1,0 +1,191 @@
+li.user-header {
+    height: 80px !important;
+}
+
+.no-border {
+    border:none !important;
+}
+
+.select2-container {
+    width: 100% !important;
+}
+
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+div#mainContent {
+    overflow: auto;
+}
+
+.content-header {
+    padding: 0 !important;
+}
+
+.ColOffusq {
+    max-width: 150px !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+
+fieldset {
+    border: 1px solid #e0e0e0 !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow: 0px 0px 0px 0px #000;
+    box-shadow: 0px 0px 0px 0px #000;
+}
+
+legend {
+    font-size: 1em !important;
+    font-weight: bold !important;
+    text-align: left !important;
+    width: auto !important;
+    padding: 0 10px !important;
+    border-bottom: none;
+    color: #007bff !important;
+}
+
+.pageTitle {
+    background-color: #e0e0e0;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.formSeparator {
+    color: #475d95;
+    border-bottom: solid 1px;
+}
+
+label.toggle-on,
+label.toggle-on {
+    font-weight: normal !important;
+}
+
+.select2-search__field {
+    border: none !important;
+}
+
+.select2-selection__choice__display {
+    padding-left: 20px !important;
+}
+
+.colorshortcuts {
+    background-color: #c1cfe1 !important;
+    color: #000000 !important;
+    border-color: #c1cfe1 !important;
+    width: 220px !important;
+}
+
+.colorbadges{
+    background-color: #c1cfe1 !important;
+    color: #000000 !important;
+    border-color: #c1cfe1 !important;
+}
+
+.nocontent{
+    content: none !important;
+}
+
+.card-header::after, .card-body::after, .card-footer::after {
+    display: block;
+    clear: both;
+    content: none !important;
+}
+
+#tablecontents tr:hover {
+    font-weight: bold !important;
+    cursor: pointer !important;
+}
+
+.colorshortcuts:hover, .colorshortcuts:focus {
+    background-color: #475d95 !important;
+    color: #fff !important;
+    border-color: #475d95 !important;
+    text-decoration: none !important;
+}
+
+.colorshortcuts > i {
+    transition: transform 0.3s linear;
+}
+
+.colorshortcuts:hover > i {
+    transform: scale(1.3);
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff !important;
+    text-decoration: none !important;
+    background-color: #218838 !important;
+}
+
+.nav-tabs .nav-link {
+    color: #6c757d;
+    margin-bottom: -1px;
+    border: 1px solid #00000050;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
+    border-color: #00000080 #00000080 #dee2e6;
+    color: #343a40;
+}
+
+.nav-tabs .nav-item.show .nav-link {
+    color: #fff;
+    background-color: #475d95;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.nav-tabs.flex-column .nav-link:hover, .nav-tabs.flex-column .nav-link:focus {
+    border-color: #00000080 transparent #00000080 #00000080;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: #fff !important;
+    text-decoration: none !important;
+    background-color: #218838 !important;
+}
+.dropdown-item-lang:hover, .dropdown-item:focus {
+    color: #fff !important;
+    text-decoration: none !important;
+    background-color: #475d95 !important;
+  }
+  .dropdown-item-lang.active, .dropdown-item:active {
+    color: #fff !important;
+    text-decoration: none !important;
+    background-color: #475d95 !important;
+  }
+
+  .no-border:hover, .no-border:focus {
+    border: 2px solid #475d95 !important;
+  }
+
+  .no-border {
+  border: none !important;
+  }
+
+  .hover-nav:hover, .hover-nav:focus {
+    color: #fff !important;
+    text-decoration: none !important;
+    background-color: #475d95 !important;
+  }
+
+  .hover-nav.active, .hover-nav:active {
+    color: #fff !important;
+    text-decoration: none !important;
+    background-color: #475d95 !important;
+  }
+
+  .sidebari{
+      width: 25px;
+  }
+
+  .ui-tooltip{
+      display: none;
+  }
